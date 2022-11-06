@@ -1,0 +1,1 @@
+write-host 'lets go!' -ForegroundColor Cyan -BackgroundColor Blue
